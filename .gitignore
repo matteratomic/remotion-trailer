@@ -1,3 +1,5 @@
 node_modules
+out
+trailer.mp4
 dist
 .DS_Store
